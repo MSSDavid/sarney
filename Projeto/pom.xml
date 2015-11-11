@@ -5,6 +5,10 @@
     <artifactId>Projeto</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <modules>
+        <module>Produto</module>
+        <module>Quadrado</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
